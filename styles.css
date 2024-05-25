@@ -38,6 +38,10 @@ p {
   margin: 2px 0;
 }
 
+.medium {
+  height: 5px;
+}
+
 .large {
   height: 10px;
 }
